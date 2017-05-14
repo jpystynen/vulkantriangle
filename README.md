@@ -24,9 +24,9 @@ git clone https://github.com/jpystynen/vulkantriangle.git
 cd vulkantriangle
 .\combile_shaders.bat
 ```
-run cmake
-build with VS
-set working dir to root and run projet
+Run cmake.
+Build with VS.
+Set working dir to project root and run project.
 
 [vksdk]: https://www.lunarg.com/vulkan-sdk/
 [cmake]: https://cmake.org/
