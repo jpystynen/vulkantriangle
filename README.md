@@ -15,7 +15,7 @@ The application uses Window classes for window creation. Does not compile on oth
 
 * [Vulkan SDK][vksdk]: LunarG Vulkan SDK for vulkan.
 * [CMake][cmake]: For generating compilation targets.
-* [Visual Studio][cmake]: For compiling (tested with community).
+* [Visual Studio][vstudio]: For compiling (tested with community).
 
 ### Build steps
 
